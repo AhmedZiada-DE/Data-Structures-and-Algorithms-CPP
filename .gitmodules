@@ -1,0 +1,3 @@
+[submodule "new-subdirectory"]
+	path = new-subdirectory
+	url = https://github.com/AhmedZiada-DE/BST
